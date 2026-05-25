@@ -11,6 +11,7 @@ This is my basic python study project in order to practice and show my steady pr
 - Adição
 - Subtração
 - Divisão
+- Multiplicação
 - Exponenciação
 
 # Tecnologias usadas
